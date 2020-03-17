@@ -1,0 +1,633 @@
+trans#,cum #dead,cum#days,Tran#,Day,Month,Year,Transect,Genus ,Species,,Sex,KRL #,Comments,new genus,new species,habitat,family 
+1,1,1,,4,Oct,2004,Guabal,Colostethus,inguinalis,,,1302,,Colostethus,panamensis,Stream,Dendrobatidae
+1,2,1,,4,Oct,2004,Guabal,Colostethus,inguinalis,,,1303,,Colostethus,panamensis,Stream,Dendrobatidae
+1,3,1,,4,Oct,2004,Guabal,Eleutherodactylus, punctariolus ,,,1304,,Craugastor, punctariolus ,Stream,Craugastoridae
+2,4,14,,17,Oct,2004,Cascada,Hyla,colymba,,M,1297,,Hyloscirtus,colymba,Stream,Hylidae
+3,5,21,,24,Oct,2004,Guabal,Leptodactylus,pentadactylus,,,1299,,Leptodactylus,savagei,Stream,Leptodactylidae
+3,6,21,,24,Oct,2004,Guabal,Rana,warszewitchii,,,1300,,Lithobates,warszewitchii,Stream,Ranidae
+3,7,21,,24,Oct,2004,Guabal,Eleutherodactylus,cruentus,,,1301,,Pristimantis,cruentus,Stream,Craugastoridae
+3,8,21,,24,Oct,2004,Guabal,Eleutherodactylus, punctariolus ,,,1305,,Craugastor, punctariolus ,Stream,Craugastoridae
+3,9,21,,24,Oct,2004,Guabal,Bufo,haematiticus,,,1306,,Rhaebo,haematiticus,Stream,Bufonidae
+3,10,21,,24,Oct,2004,Guabal,Colostethus,inguinalis,,,1307,,Colostethus,panamensis,Stream,Dendrobatidae
+4,11,21,,24,Oct,2004,Cascada,Colostethus,inguinalis,,,1308,,Colostethus,panamensis,Stream,Dendrobatidae
+5,12,22,,25,Oct,2004,Guabal,Eleutherodactylus,podi-noblei,,,1309,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+5,13,22,,25,Oct,2004,Guabal,Eleutherodactylus,podi-noblei,,,1310,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+5,14,22,,25,Oct,2004,Guabal,Eleutherodactylus,podi-noblei,,,1311,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+6,15,22,,25,Oct,2004,Loop,Colostethus,inguinalis,,,1312,,Colostethus,panamensis,Stream,Dendrobatidae
+6,16,22,,25,Oct,2004,Loop,Cochranella ,albomaculata,,F,1313,,Sachatamia,albomaculata,Stream,Centrolenidae
+7,17,23,,26,Oct,2004,Silenciosa,Eleutherodactylus,bufoniformis,,,1314,,Strabomantis,bufoniformis,Stream,Strabomantidae
+7,18,23,,26,Oct,2004,Silenciosa,Eleutherodactylus,bufoniformis,,,,Partial remains ,Strabomantis,bufoniformis,Stream,Strabomantidae
+8,19,23,,26,Oct,2004,Loop,Bufo,haematiticus,,,1317,,Rhaebo,haematiticus,Stream,Bufonidae
+9,20,23,,26,Oct,2004,Guabal,Atelopus,zeteki,,M,1318,,Atelopus,varius,Stream,Bufonidae
+9,21,23,,26,Oct,2004,Guabal,Colostethus,nubicola,,M,1319,,Silverstoneia,nubicola,Stream,Dendrobatidae
+9,22,23,,26,Oct,2004,Guabal,Eleutherodactylus,podi-noblei,,,1322,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+9,23,23,,26,Oct,2004,Guabal,Eleutherodactylus,podi-noblei,,,1328,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+10,24,24,,27,Oct,2004,Guabal,Bufo,haematiticus,,,1323,,Rhaebo,haematiticus,Stream,Bufonidae
+10,25,24,,27,Oct,2004,Guabal,Eleutherodactylus,podi-noblei,,,1325,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+11,26,25,,28,Oct,2004,Guabal,Eleutherodactylus,cruentus,,,1320,,Pristimantis,cruentus,Stream,Craugastoridae
+11,27,25,,28,Oct,2004,Guabal,Colostethus,nubicola,,F,1321,,Silverstoneia,nubicola,Stream,Dendrobatidae
+12,28,25,,28,Oct,2004,Guabal,Hyla,palmeri,,M,1324,,Hyloscirtus,palmeri,Stream,Hylidae
+12,29,25,,28,Oct,2004,Guabal,Centrolenella,prosoblepon,,M,1326,,Espadarana,prosoblepon,Stream,Centrolenidae
+12,30,25,,28,Oct,2004,Guabal,Colostethus,inguinalis,,,1327,,Colostethus,panamensis,Stream,Dendrobatidae
+13,30,25,,28,Oct,2004,Cascada,0,0,,,,,,,Stream,
+13,30,25,,28,Oct,2004,Cascada,0,0,,,,,,,Stream,
+14,31,26,,29,Oct,2004,Cascada,Colostethus,nubicola,,F,1330,,Silverstoneia,nubicola,Stream,Dendrobatidae
+15,32,26,,29,Oct,2004,Guabal,Colostethus,inguinalis,,,1331,,Colostethus,panamensis,Stream,Dendrobatidae
+15,33,26,,29,Oct,2004,Guabal,Colostethus,nubicola,,,1332,,Silverstoneia,nubicola,Stream,Dendrobatidae
+15,34,26,,29,Oct,2004,Guabal,Eleutherodactylus,cruentus,,,1333,,Pristimantis,cruentus,Stream,Craugastoridae
+15,35,26,,29,Oct,2004,Guabal,Cochranella ,albomaculata,,,1334,,Sachatamia,albomaculata,Stream,Centrolenidae
+15,36,26,,29,Oct,2004,Guabal,Hyla,palmeri,,M,1336,Belly up,Hyloscirtus,palmeri,Stream,Hylidae
+16,37,26,,29,Oct,2004,Cascada,Hyla,colymba,,,1335,,Hyloscirtus,colymba,Stream,Hylidae
+17,38,27,,30,Oct,2004,Silenciosa,Eleutherodactylus,bufoniformis,,,1337,,Strabomantis,bufoniformis,Stream,Strabomantidae
+18,39,27,,30,Oct,2004,Guabal,Atelopus,zeteki,,,1346,Four dots,Atelopus,varius,Stream,Bufonidae
+19,40,27,,30,Oct,2004,Cascada,Colostethus,nubicola,,,1347,,Silverstoneia,nubicola,Stream,Dendrobatidae
+19,41,27,,30,Oct,2004,Cascada,Colostethus,nubicola,,,1348,,Silverstoneia,nubicola,Stream,Dendrobatidae
+19,42,28,,31,Oct,2004,Cascada,Colostethus,inguinalis,,,1355,,Colostethus,panamensis,Stream,Dendrobatidae
+19,43,28,,31,Oct,2004,Cascada,Colostethus,flotator,,,1356,,Silverstoneia,flotator,Stream,Dendrobatidae
+19,44,28,,31,Oct,2004,Cascada,Colostethus,inguinalis,,,1357,,Colostethus,panamensis,Stream,Dendrobatidae
+19,45,28,,31,Oct,2004,Cascada,Colostethus,nubicola,,F,1358,,Silverstoneia,nubicola,Stream,Dendrobatidae
+20,46,28,,31,Oct,2004,Guabal,Colostethus,talamancae,,,1350,,Allobates,talamancae,Stream,Dendrobatidae
+20,47,28,,31,Oct,2004,Guabal,Eleutherodactylus,bufoniformis,,,1351,,Strabomantis,bufoniformis,Stream,Strabomantidae
+20,48,28,,31,Oct,2004,Guabal,Eleutherodactylus,bufoniformis,,,1352,,Strabomantis,bufoniformis,Stream,Strabomantidae
+20,49,28,,31,Oct,2004,Guabal,Eleutherodactylus,cruentus,,,1353,,Pristimantis,cruentus,Stream,Craugastoridae
+20,50,28,,31,Oct,2004,Guabal,Colostethus,nubicola,,,1354,,Silverstoneia,nubicola,Stream,Dendrobatidae
+21,51,28,,31,Oct,2004,Loop,Colostethus,inguinalis,,,1338,,Colostethus,panamensis,Stream,Dendrobatidae
+21,52,28,,31,Oct,2004,Loop,Colostethus,nubicola,,M,1340,,Silverstoneia,nubicola,Stream,Dendrobatidae
+21,53,28,,31,Oct,2004,Loop,Eleutherodactylus,bransfordii,,,1349,,Craugastor,bransfordii,Stream,Craugastoridae
+22,54,28,,31,Oct,2004,Silenciosa,Colostethus,inguinalis,,,1339,,Colostethus,panamensis,Stream,Dendrobatidae
+22,55,28,,31,Oct,2004,Silenciosa,Colostethus,inguinalis,,,1341,,Colostethus,panamensis,Stream,Dendrobatidae
+22,56,28,,31,Oct,2004,Silenciosa,Atelopus,zeteki,,M,1342,Cy Jr. ,Atelopus,varius,Stream,Bufonidae
+22,57,28,,31,Oct,2004,Silenciosa,Colostethus,inguinalis,,,1343,,Colostethus,panamensis,Stream,Dendrobatidae
+22,58,28,,31,Oct,2004,Silenciosa,Colostethus,inguinalis,,,1344,,Colostethus,panamensis,Stream,Dendrobatidae
+22,59,28,,31,Oct,2004,Silenciosa,Atelopus,zeteki,,F,1345,Gravid,Atelopus,varius,Stream,Bufonidae
+22,60,28,,31,Oct,2004,Silenciosa,Colostethus,inguinalis,,,1359,,Colostethus,panamensis,Stream,Dendrobatidae
+23,61,29,,1,Nov,2004,Cascada,Colostethus,nubicola,,M,1368,,Silverstoneia,nubicola,Stream,Dendrobatidae
+23,62,29,,1,Nov,2004,Cascada,Colostethus,nubicola,,M,1369,,Silverstoneia,nubicola,Stream,Dendrobatidae
+24,63,29,,1,Nov,2004,Guabal,Eleutherodactylus,azueroensis,,,1365,,Craugastor,rivularis,Stream,Craugastoridae
+25,64,29,,1,Nov,2004,Silenciosa,Atelopus,zeteki,,M,1364,,Atelopus,varius,Stream,Bufonidae
+25,65,29,,1,Nov,2004,Silenciosa,Colostethus,inguinalis,,,1366,,Colostethus,panamensis,Stream,Dendrobatidae
+25,66,29,,1,Nov,2004,Silenciosa,Colostethus,inguinalis,,,1367,,Colostethus,panamensis,Stream,Dendrobatidae
+26,67,30,,2,Nov,2004,Loop,Colostethus,nubicola,,F,1362,,Silverstoneia,nubicola,Stream,Dendrobatidae
+26,68,30,,2,Nov,2004,Loop,Eleutherodactylus,talamancae,,,1363,,Craugastor,talamancae,Stream,Craugastoridae
+27,69,30,,2,Nov,2004,Silenciosa,Colostethus,inguinalis,,,1370,,Colostethus,panamensis,Stream,Dendrobatidae
+28,70,31,,3,Nov,2004,Cascada,Colostethus,nubicola,,,1371,,Silverstoneia,nubicola,Stream,Dendrobatidae
+29,71,31,,3,Nov,2004,Loop,Colostethus,nubicola,,,1372,,Silverstoneia,nubicola,Stream,Dendrobatidae
+30,72,31,,3,Nov,2004,Guabal,Eleutherodactylus, punctariolus ,,,,Partial remains ,Craugastor, punctariolus ,Stream,Craugastoridae
+31,72,31,,3,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+32,73,32,,4,Nov,2004,Guabal,Eleutherodactylus,tabasarae,,,1373,,Craugastor,tabasarae,Stream,Craugastoridae
+32,74,32,,4,Nov,2004,Guabal,Atelopus,zeteki,,M,1374,,Atelopus,varius,Stream,Bufonidae
+33,75,32,,4,Nov,2004,Cascada,Bufo,haematiticus,,,1375,Partially eaten,Rhaebo,haematiticus,Stream,Bufonidae
+34,76,32,,4,Nov,2004,Guabal,Atelopus,zeteki,,M,1377,Scar back,Atelopus,varius,Stream,Bufonidae
+35,77,32,,4,Nov,2004,Loop,Colostethus,nubicola,,M,1376,,Silverstoneia,nubicola,Stream,Dendrobatidae
+35,78,32,,4,Nov,2004,Loop,Colostethus,nubicola,,M,1378,,Silverstoneia,nubicola,Stream,Dendrobatidae
+36,78,32,,4,Nov,2004,loop trail,0,0,,,,,,,Trail,
+37,79,33,,5,Nov,2004,Guabal,Bufo,haematiticus,,,1379,,Rhaebo,haematiticus,Stream,Bufonidae
+38,80,33,,5,Nov,2004,Silenciosa,Colostethus,nubicola,,M,1380,,Silverstoneia,nubicola,Stream,Dendrobatidae
+39,81,33,,5,Nov,2004,Cascada,Colostethus,inguinalis,,,1382,,Colostethus,panamensis,Stream,Dendrobatidae
+39,82,33,,5,Nov,2004,Cascada,Colostethus,nubicola,,M,1383,,Silverstoneia,nubicola,Stream,Dendrobatidae
+39,83,33,,5,Nov,2004,Cascada,Colostethus,nubicola,,F,1384,,Silverstoneia,nubicola,Stream,Dendrobatidae
+41,84,33,,5,Nov,2004,Cascada,Hyla,colymba,,M,1391,,Hyloscirtus,colymba,Stream,Hylidae
+39,84,33,,5,Nov,2004,Cascada,Colostethus,nubicola,,M,1385,,Silverstoneia,nubicola,Stream,Dendrobatidae
+40,84,33,,5,Nov,2004,Loop,0,0,,,,,,,Stream,
+42,85,34,,6,Nov,2004,Guabal,Atelopus,zeteki,,M,1388,Bushy brows,Atelopus,varius,Stream,Bufonidae
+42,86,34,,6,Nov,2004,Guabal,Eleutherodactylus,podi-noblei,,,1389,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+43,87,34,,6,Nov,2004,Guabal,Eleutherodactylus,talamancae,,,1392,,Craugastor,talamancae,Stream,Craugastoridae
+44,88,34,,6,Nov,2004,Cascada,Colostethus,inguinalis,,,1390,,Colostethus,panamensis,Stream,Dendrobatidae
+46,88,34,,6,Nov,2004,Loop,0,0,,,,,,,Stream,
+45,88,34,,6,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+47,89,35,,7,Nov,2004,Guabal,Eleutherodactylus,crassidigitus,,,1393,,Craugastor,crassidigitus,Stream,Craugastoridae
+47,90,35,,7,Nov,2004,Guabal,Bufo,haematiticus,,,1395,,Rhaebo,haematiticus,Stream,Bufonidae
+47,91,35,,7,Nov,2004,Guabal,Eleutherodactylus,crassidigitus,,,1396,,Craugastor,crassidigitus,Stream,Craugastoridae
+47,92,35,,7,Nov,2004,Guabal,Bufo,haematiticus,,,1397,,Rhaebo,haematiticus,Stream,Bufonidae
+48,93,35,,7,Nov,2004,Silenciosa,Colostethus,talamancae,,,1394,,Allobates,talamancae,Stream,Dendrobatidae
+49,93,35,,7,Nov,2004,Cascada,0,0,,,,,,,Stream,
+50,93,35,,7,Nov,2004,Loop,0,0,,,,,,,Stream,
+51,93,35,,7,Nov,2004,Main trail,0,0,,,,,,,Trail,
+52,94,36,,8,Nov,2004,Cascada,Colostethus,nubicola,,M,1398,,Silverstoneia,nubicola,Stream,Dendrobatidae
+52,95,36,,8,Nov,2004,Cascada,Eleutherodactylus,podi-noblei,,,1399,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+52,96,36,,8,Nov,2004,Cascada,Nelsonophryne,aterrima,,,1400,,Nelsonophryne,aterrima,Stream,Microhylidae
+53,97,36,,8,Nov,2004,Loop,Colostethus,flotator,,,1401,,Silverstoneia,flotator,Stream,Dendrobatidae
+53,98,36,,8,Nov,2004,Loop,Colostethus,nubicola,,F,1402,,Silverstoneia,nubicola,Stream,Dendrobatidae
+53,99,36,,8,Nov,2004,Loop,Colostethus,nubicola,,F,1403,,Silverstoneia,nubicola,Stream,Dendrobatidae
+53,100,36,,8,Nov,2004,Loop,Colostethus,nubicola,,M,1404,,Silverstoneia,nubicola,Stream,Dendrobatidae
+53,101,36,,8,Nov,2004,Loop,Centrolenella,prosoblepon,,,1406,Partial remains ,Espadarana,prosoblepon,Stream,Centrolenidae
+55,101,36,,8,Nov,2004,Guabal,0,0,,,,,,,Stream,
+54,101,36,,8,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+56,101,36,,8,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+57,102,37,,9,Nov,2004,Guabal,Eleutherodactylus,cruentus,,,1407,,Pristimantis,cruentus,Stream,Craugastoridae
+58,102,37,,9,Nov,2004,Cascada,0,0,,,,,,,Stream,
+59,103,37,,9,Nov,2004,Loop,Colostethus,nubicola,,M,1408,,Silverstoneia,nubicola,Stream,Dendrobatidae
+59,104,37,,9,Nov,2004,Loop,Eleutherodactylus,talamancae,,,1409,,Craugastor,talamancae,Stream,Craugastoridae
+60,105,37,,9,Nov,2004,Silenciosa,Atelopus,zeteki,,M,1410,,Atelopus,varius,Stream,Bufonidae
+60,106,37,,9,Nov,2004,Silenciosa,Rana,warszewitchii,,,1415,,Lithobates,warszewitchii,Stream,Ranidae
+61,106,38,,10,Nov,2004,Cascada,0,0,,,,,,,Stream,
+62,106,38,,10,Nov,2004,Guabal,0,0,,,,,,,Stream,
+64,106,38,,10,Nov,2004,Main trail,0,0,,,,,,,Trail,
+63,106,38,,10,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+65,107,39,,11,Nov,2004,Guabal,Eleutherodactylus,bufoniformis,,,1412,,Strabomantis,bufoniformis,Stream,Strabomantidae
+65,108,39,,11,Nov,2004,Guabal,Atelopus,zeteki,,M,1413,Forrest Jr.,Atelopus,varius,Stream,Bufonidae
+66,108,39,,11,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+67,109,39,,11,Nov,2004,Loop,Colostethus,inguinalis,,,1414,,Colostethus,panamensis,Stream,Dendrobatidae
+68,110,39,,11,Nov,2004,Guabal,Cochranella ,albomaculata,,,1422,,Sachatamia,albomaculata,Stream,Centrolenidae
+68,111,39,,11,Nov,2004,Guabal,Cochranella ,albomaculata,,,1423,,Sachatamia,albomaculata,Stream,Centrolenidae
+69,112,40,,12,Nov,2004,Cascada,Eleutherodactylus,podi-noblei,,,1417,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+69,113,40,,12,Nov,2004,Cascada,Hyalinobatrachium,colymbiphyllum,ys,M,1418,,Hyalinobatrachium,colymbiphyllum,Stream,Centrolenidae
+70,114,40,,12,Nov,2004,Guabal,Hyla,colymba,,,1419,,Hyloscirtus,colymba,Stream,Hylidae
+70,115,40,,12,Nov,2004,Guabal,Eleutherodactylus,cruentus,,,1420,,Pristimantis,cruentus,Stream,Craugastoridae
+71,116,40,,12,Nov,2004,Silenciosa,Colostethus,inguinalis,,,1421,,Colostethus,panamensis,Stream,Dendrobatidae
+72,116,40,,12,Nov,2004,Loop,0,0,,,,,,,Stream,
+73,117,40,,12,Nov,2004,Cascada,Hyalinobatrachium,colymbiphyllum,ys,M,1424,,Hyalinobatrachium,colymbiphyllum,Stream,Centrolenidae
+73,118,40,,12,Nov,2004,Cascada,Eleutherodactylus,cruentus,,,1425,,Pristimantis,cruentus,Stream,Craugastoridae
+73,119,40,,12,Nov,2004,Cascada,Hyla,colymba,,,1435,,Hyloscirtus,colymba,Stream,Hylidae
+75,119,41,,13,Nov,2004,Cascada,0,0,,,,,,,Stream,
+74,119,41,,13,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+76,120,41,,13,Nov,2004,Guabal,Bufo,haematiticus,,,1426,,Rhaebo,haematiticus,Stream,Bufonidae
+76,121,41,,13,Nov,2004,Guabal,Bufo,haematiticus,,,1427,,Rhaebo,haematiticus,Stream,Bufonidae
+76,122,41,,13,Nov,2004,Guabal,Atelopus,zeteki,,,1428,,Atelopus,varius,Stream,Bufonidae
+76,123,41,,13,Nov,2004,Guabal,Gastrotheca,cornuta,,,1429,,Gastrotheca,cornuta,Stream,Hemiphractidae
+76,124,41,,13,Nov,2004,Guabal,Eleutherodactylus,crassidigitus,,,1430,,Craugastor,crassidigitus,Stream,Craugastoridae
+77,125,41,,13,Nov,2004,Loop,Hyla,colymba,,M,1431,,Hyloscirtus,colymba,Stream,Hylidae
+77,126,41,,13,Nov,2004,Loop,Colostethus,talamancae,,,1432,,Allobates,talamancae,Stream,Dendrobatidae
+77,127,41,,13,Nov,2004,Loop,Colostethus,inguinalis,,,1433,,Colostethus,panamensis,Stream,Dendrobatidae
+77,128,41,,13,Nov,2004,Loop,Colostethus,nubicola,,M,1434,,Silverstoneia,nubicola,Stream,Dendrobatidae
+81,128,42,,14,Nov,2004,Guabal,0,0,,,,,,,Stream,
+79,128,42,,14,Nov,2004,Loop,0,0,,,,,,,Stream,
+78,128,41,,13,Nov,2004,Main trail,0,0,,,,,,,Trail,
+80,128,42,,14,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+82,129,42,,14,Nov,2004,Cascada,Atelopus,zeteki,,M,1453,Mollera,Atelopus,varius,Stream,Bufonidae
+82,130,42,,14,Nov,2004,Cascada,Eleutherodactylus,talamancae,,,1454,,Craugastor,talamancae,Stream,Craugastoridae
+82,131,42,,14,Nov,2004,Cascada,Eleutherodactylus,cruentus,,,1455,,Pristimantis,cruentus,Stream,Craugastoridae
+82,132,42,,14,Nov,2004,Cascada,Colostethus,nubicola,,M,1456,,Silverstoneia,nubicola,Stream,Dendrobatidae
+82,133,42,,14,Nov,2004,Cascada,Colostethus,nubicola,,F,1457,,Silverstoneia,nubicola,Stream,Dendrobatidae
+83,134,42,,14,Nov,2004,Silenciosa,Eleutherodactylus,talamancae,,,1458,,Craugastor,talamancae,Stream,Craugastoridae
+84,134,43,,15,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+85,136,43,,15,Nov,2004,Loop,Eleutherodactylus,cruentus,,,1462,,Pristimantis,cruentus,Stream,Craugastoridae
+85,137,43,,15,Nov,2004,Guabal,Eleutherodactylus,talamancae,,,1463,,Craugastor,talamancae,Stream,Craugastoridae
+87,138,43,,15,Nov,2004,Cascada,Colostethus,nubicola,,M,1461,,Silverstoneia,nubicola,Stream,Dendrobatidae
+87,139,43,,15,Nov,2004,Cascada,Colostethus,nubicola,,M,1460,,Silverstoneia,nubicola,Stream,Dendrobatidae
+87,140,43,,15,Nov,2004,Cascada,Hyla,colymba,,M,1459,,Hyloscirtus,colymba,Stream,Hylidae
+87,141,43,,15,Nov,2004,Cascada,Oedipina,collaris,,,1472,,Oedipina,collaris,Stream,Plethodontidae
+88,142,43,,15,Nov,2004,Loop,Eleutherodactylus,podi-noblei,,,1473,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+89,143,44,,16,Nov,2004,Loop,Colostethus,talamancae,,,1475,,Allobates,talamancae,Stream,Dendrobatidae
+90,144,44,,16,Nov,2004,Cascada,Colostethus,nubicola,,F,1476,,Silverstoneia,nubicola,Stream,Dendrobatidae
+91,145,44,,16,Nov,2004,Guabal,Colostethus,nubicola,,M,1477,,Silverstoneia,nubicola,Stream,Dendrobatidae
+94,145,45,,17,Nov,2004,Cascada,0,0,,,,,,,Stream,
+95,145,45,,17,Nov,2004,Guabal,0,0,,,,,,,Stream,
+93,145,45,,17,Nov,2004,Loop,0,0,,,,,,,Stream,
+92,145,44,,16,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+96,146,45,,17,Nov,2004,Silenciosa,Centrolenella,ilex,,,1478,,Sachatamia,ilex,Stream,Centrolenidae
+97,147,46,,18,Nov,2004,Silenciosa,Eleutherodactylus,cruentus,,,1474,,Pristimantis,cruentus,Stream,Craugastoridae
+98,147,46,,18,Nov,2004,Loop,0,0,,,,,,,Stream,
+99,148,46,,18,Nov,2004,Guabal,Eleutherodactylus, punctariolus ,,Juv,1479,,Craugastor, punctariolus ,Stream,Craugastoridae
+99,149,46,,18,Nov,2004,Guabal,Eleutherodactylus,podi-noblei,,,1480,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+100,150,46,,18,Nov,2004,Guabal,Atelopus,zeteki,,M,1481,,Atelopus,varius,Stream,Bufonidae
+101,151,47,,19,Nov,2004,Guabal,Atelopus,zeteki,,M,1482,,Atelopus,varius,Stream,Bufonidae
+102,152,48,,20,Nov,2004,Guabal,Rana,warszewitchii,,,1508,,Lithobates,warszewitchii,Stream,Ranidae
+103,153,50,,22,Nov,2004,Cascada,Eleutherodactylus,podi-noblei,,,1513,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+103,154,50,,22,Nov,2004,Cascada,Cochranella ,albomaculata,,,1514,,Sachatamia,albomaculata,Stream,Centrolenidae
+103,155,50,,22,Nov,2004,Cascada,Colostethus,talamancae,,,1515,,Allobates,talamancae,Stream,Dendrobatidae
+104,156,50,,22,Nov,2004,Guabal,Centrolenella,prosoblepon,,,1516,,Espadarana,prosoblepon,Stream,Centrolenidae
+105,157,50,,22,Nov,2004,Loop,Nelsonophryne,aterrima,,,1517,,Nelsonophryne,aterrima,Stream,Microhylidae
+106,158,51,,23,Nov,2004,loop,Eleutherodactylus,podi-noblei,,,1522,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+107,159,51,,23,Nov,2004,Silenciosa,Hyla,colymba,,,1518,,Hyloscirtus,colymba,Stream,Hylidae
+107,160,51,,23,Nov,2004,Silenciosa,Atelopus,zeteki,,M,1519,,Atelopus,varius,Stream,Bufonidae
+108,161,51,,23,Nov,2004,Guabal,Eleutherodactylus,talamancae,,,1520,,Craugastor,talamancae,Stream,Craugastoridae
+109,162,51,,23,Nov,2004,Cascada,Atelopus,zeteki,,F,1521,,Atelopus,varius,Stream,Bufonidae
+110,163,51,,23,Nov,2004,Loop,Colostethus,nubicola,,F,1523,,Silverstoneia,nubicola,Stream,Dendrobatidae
+112,164,51,,23,Nov,2004,Cascada,Eleutherodactylus,podi-noblei,,,1531,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+111,165,52,,24,Nov,2004,Main trail,Eleutherodactylus,talamancae,,,,Partial remains ,Craugastor,talamancae,Trail,Craugastoridae
+113,166,52,,24,Nov,2004,Cascada,Atelopus,zeteki,,M,1525,Billy,Atelopus,varius,Stream,Bufonidae
+113,167,52,,24,Nov,2004,Cascada,Eleutherodactylus,cruentus,,,1528,,Pristimantis,cruentus,Stream,Craugastoridae
+114,168,52,,24,Nov,2004,Guabal,Bufo,haematiticus,,,1526,,Rhaebo,haematiticus,Stream,Bufonidae
+114,169,52,,24,Nov,2004,Guabal,Nelsonophryne,aterrima,,,1527,,Nelsonophryne,aterrima,Stream,Microhylidae
+114,170,52,,24,Nov,2004,Guabal,Eleutherodactylus,talamancae,,,1529,,Craugastor,talamancae,Stream,Craugastoridae
+115,171,52,,24,Nov,2004,loop,Cochranella ,albomaculata,,,1530,,Sachatamia,albomaculata,Stream,Centrolenidae
+116,171,52,,24,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+117,172,53,,25,Nov,2004,Loop,Centrolenella,ilex,,,1532,,Sachatamia,ilex,Stream,Centrolenidae
+117,173,53,,25,Nov,2004,Loop,Hyla,colymba,,,1537,,Hyloscirtus,colymba,Stream,Hylidae
+118,174,53,,25,Nov,2004,Silenciosa,Colostethus,nubicola,,M,1534,,Silverstoneia,nubicola,Stream,Dendrobatidae
+118,175,53,,25,Nov,2004,Silenciosa,Hyalinobatrachium,colymbiphyllum,ys,,1535,,Hyalinobatrachium,colymbiphyllum,Stream,Centrolenidae
+119,176,53,,25,Nov,2004,Guabal,Centrolenella,prosoblepon,,,1536,,Espadarana,prosoblepon,Stream,Centrolenidae
+119,177,53,,25,Nov,2004,Guabal,Cochranella ,albomaculata,,,1533,,Sachatamia,albomaculata,Stream,Centrolenidae
+120,177,53,,25,Nov,2004,Cascada,0,0,,,,,,,Stream,
+121,178,54,,26,Nov,2004,Loop,Colostethus,inguinalis,,,1538,,Colostethus,panamensis,Stream,Dendrobatidae
+122,179,55,,27,Nov,2004,Guabal,Atelopus,zeteki,,,1542,,Atelopus,varius,Stream,Bufonidae
+122,180,55,,27,Nov,2004,Guabal,Eleutherodactylus,cruentus,,,1543,,Pristimantis,cruentus,Stream,Craugastoridae
+122,181,55,,27,Nov,2004,Guabal,Hyla,colymba,,,1544,,Hyloscirtus,colymba,Stream,Hylidae
+123,182,55,,27,Nov,2004,Cascada,Colostethus,flotator,,,1545,,Silverstoneia,flotator,Stream,Dendrobatidae
+123,183,55,,27,Nov,2004,Cascada,Centrolenella,ilex,,,,"Frozen, Partial remains",Sachatamia,ilex,Stream,Centrolenidae
+124,184,55,,27,Nov,2004,Loop,Eleutherodactylus,podi-noblei,,,,"Frozen, Partial remains",Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+126,184,55,,27,Nov,2004,Main trail,0,0,,,,,,,Trail,
+125,184,55,,27,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+127,185,56,,28,Nov,2004,Cascada,Eleutherodactylus,podi-noblei,,,1548,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+128,186,56,,28,Nov,2004,Guabal,Eleutherodactylus,podi-noblei,,,1549,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+128,187,56,,28,Nov,2004,Guabal,Eleutherodactylus,cruentus,,,1550,,Pristimantis,cruentus,Stream,Craugastoridae
+129,188,56,,28,Nov,2004,Loop,Colostethus,nubicola,,F,1551,,Silverstoneia,nubicola,Stream,Dendrobatidae
+129,189,56,,28,Nov,2004,Loop,Eleutherodactylus,cruentus,,,1552,,Pristimantis,cruentus,Stream,Craugastoridae
+130,189,56,,28,Nov,2004,Silenciosa,0,0,,,,,,,Stream,
+131,190,56,,28,Nov,2004,Silenciosa,Rana,warszewitchii,,,1553,,Lithobates,warszewitchii,Stream,Ranidae
+131,191,56,,28,Nov,2004,Silenciosa,Eleutherodactylus,museosus,,,1554,,Pristimantis,museosus,Stream,Craugastoridae
+132,192,57,,29,Nov,2004,Silenciosa,Bufo,haematiticus,,,1555,,Rhaebo,haematiticus,Stream,Bufonidae
+133,193,57,,29,Nov,2004,Cascada,Hyalinobatrachium,colymbiphyllum,ys,,1556,,Hyalinobatrachium,colymbiphyllum,Stream,Centrolenidae
+133,194,57,,29,Nov,2004,Cascada,Hyalinobatrachium,colymbiphyllum,ys,,1557,,Hyalinobatrachium,colymbiphyllum,Stream,Centrolenidae
+134,194,57,,29,Nov,2004,Guabal,0,0,,,,,,,Stream,
+135,194,57,,29,Nov,2004,Loop,0,0,,,,,,,Stream,
+136,195,58,,30,Nov,2004,Silenciosa,Colostethus,nubicola,,M,1560,,Silverstoneia,nubicola,Stream,Dendrobatidae
+136,196,58,,30,Nov,2004,Silenciosa,Colostethus,nubicola,,M,1561,,Silverstoneia,nubicola,Stream,Dendrobatidae
+136,197,58,,30,Nov,2004,Silenciosa,Eleutherodactylus,bufoniformis,,,1562,,Strabomantis,bufoniformis,Stream,Strabomantidae
+137,198,58,,30,Nov,2004,Loop,Colostethus,nubicola,,M,1563,,Silverstoneia,nubicola,Stream,Dendrobatidae
+138,198,58,,30,Nov,2004,Verrugosa,0,0,,,,,,,Trail,
+139,199,59,,1,Dec,2004,Guabal,Eleutherodactylus,podi-noblei,,,1564,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+140,200,59,,1,Dec,2004,Cascada,Hyla,colymba,,,1565,,Hyloscirtus,colymba,Stream,Hylidae
+142,200,59,,1,Dec,2004,Loop,0,0,,,,,,,Stream,
+141,200,59,,1,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+143,201,60,,3,Dec,2004,Silenciosa,Colostethus,nubicola,,F,1581,,Silverstoneia,nubicola,Stream,Dendrobatidae
+144,202,60,,3,Dec,2004,Guabal,Hyla,colymba,,,1582,,Hyloscirtus,colymba,Stream,Hylidae
+145,202,60,,3,Dec,2004,Cascada,0,0,,,,,,,Stream,
+144,202,60,,3,Dec,2004,Loop,0,0,,,,,,,Stream,
+146,203,61,,4,Dec,2004,Loop,Eleutherodactylus,podi-noblei,,,1584,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+146,204,61,,4,Dec,2004,Loop,Hyla,colymba,,,1585,,Hyloscirtus,colymba,Stream,Hylidae
+147,205,61,,4,Dec,2004,Guabal,Nelsonophryne,aterrima,,,1586,,Nelsonophryne,aterrima,Stream,Microhylidae
+147,206,61,,4,Dec,2004,Guabal,Eleutherodactylus,museosus,,F,1587,,Pristimantis,museosus,Stream,Craugastoridae
+148,207,61,,4,Dec,2004,Cascada,Centrolenella,ilex,,,1588,,Sachatamia,ilex,Stream,Centrolenidae
+148,208,61,,4,Dec,2004,Cascada,Eleutherodactylus,museosus,,,1589,,Pristimantis,museosus,Stream,Craugastoridae
+149,208,61,,4,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+150,209,61,,4,Dec,2004,Guabal,Nelsonophryne,aterrima,,,1590,,Nelsonophryne,aterrima,Stream,Microhylidae
+151,210,62,,5,Dec,2004,Loop,Eleutherodactylus,podi-noblei,,,1580,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+152,211,62,,5,Dec,2004,Cascada,Atelopus,zeteki,,M,1591,,Atelopus,varius,Stream,Bufonidae
+153,212,62,,5,Dec,2004,Guabal,Hyla,palmeri,,,1592,,Hyloscirtus,palmeri,Stream,Hylidae
+154,213,62,,5,Dec,2004,Guabal,Eleutherodactylus,podi-noblei,,,1593,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+155,213,62,,5,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+156,214,63,,6,Dec,2004,Loop,Colostethus,nubicola,,F,1594,,Silverstoneia,nubicola,Stream,Dendrobatidae
+156,215,63,,6,Dec,2004,Loop,Colostethus,nubicola,,F,1595,,Silverstoneia,nubicola,Stream,Dendrobatidae
+157,216,63,,6,Dec,2004,Guabal,Eleutherodactylus,talamancae,,,1596,,Craugastor,talamancae,Stream,Craugastoridae
+157,217,63,,6,Dec,2004,Guabal,Nelsonophryne,aterrima,,,1597,,Nelsonophryne,aterrima,Stream,Microhylidae
+158,218,63,,6,Dec,2004,Cascada,Nelsonophryne,aterrima,,,1598,,Nelsonophryne,aterrima,Stream,Microhylidae
+159,218,63,,6,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+160,219,64,,7,Dec,2004,Loop,Hyla,colymba,,,1623,,Hyloscirtus,colymba,Stream,Hylidae
+161,220,64,,7,Dec,2004,Silenciosa,Eleutherodactylus,talamancae,,,1624,,Craugastor,talamancae,Stream,Craugastoridae
+162,220,64,,7,Dec,2004,Cascada,0,0,,,,,,,Stream,
+163,220,64,,7,Dec,2004,Guabal,0,0,,,,,,,Stream,
+164,221,65,,8,Dec,2004,Cascada,Centrolenella,ilex,,,1627,,Sachatamia,ilex,Stream,Centrolenidae
+164,222,65,,8,Dec,2004,Cascada,Centrolenella,ilex,,,1628,,Sachatamia,ilex,Stream,Centrolenidae
+165,223,65,,8,Dec,2004,Silenciosa,Colostethus,nubicola,,,1629,,Silverstoneia,nubicola,Stream,Dendrobatidae
+165,224,65,,8,Dec,2004,Silenciosa,Hyla,colymba,,,1630,,Hyloscirtus,colymba,Stream,Hylidae
+166,225,65,,8,Dec,2004,Guabal,Hyla,colymba,,,1631,,Hyloscirtus,colymba,Stream,Hylidae
+167,225,65,,8,Dec,2004,Loop,0,0,,,,,,,Stream,
+168,226,66,,9,Dec,2004,Guabal,Atelopus,zeteki,,M,1635,,Atelopus,varius,Stream,Bufonidae
+168,227,66,,9,Dec,2004,Guabal,Atelopus,zeteki,,F,1657,Chitrid cultive,Atelopus,varius,Stream,Bufonidae
+168,228,66,,9,Dec,2004,Guabal,Hyla,palmeri,,M,1636,,Hyloscirtus,palmeri,Stream,Hylidae
+169,228,66,,9,Dec,2004,Cascada,0,0,,,,,,,Stream,
+170,228,66,,9,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+171,229,66,,9,Dec,2004,Verrugosa,Eleutherodactylus,talamancae,,,1658,Chitrid cultive,Craugastor,talamancae,Trail,Craugastoridae
+172,230,67,,10,Dec,2004,Guabal,Hyla,palmeri,,,1662,Chitrid cultive,Hyloscirtus,palmeri,Stream,Hylidae
+173,231,67,,10,Dec,2004,Silenciosa,Eleutherodactylus,talamancae,,,1660,Chitrid cultive,Craugastor,talamancae,Stream,Craugastoridae
+174,232,67,,10,Dec,2004,Loop,Colostethus,nubicola,,F,1661,Chitrid cultive,Silverstoneia,nubicola,Stream,Dendrobatidae
+174,233,67,,10,Dec,2004,Loop,Colostethus,flotator,,,,Partial remains,Silverstoneia,flotator,Stream,Dendrobatidae
+175,233,67,,10,Dec,2004,Cascada,0,0,,,,,,,Stream,
+176,234,67,,10,Dec,2004,Silenciosa,Hyla ,palmeri,,,1659,Chitrid cultive,Hyloscirtus,palmeri,Stream,Hylidae
+176,235,67,,10,Dec,2004,Silenciosa,Eleutherodactylus,museosus,,,1666,Chitrid cultive,Pristimantis,museosus,Stream,Craugastoridae
+176,236,67,,10,Dec,2004,Silenciosa,Hyla,palmeri,,,1663,Chitrid cultive,Hyloscirtus,palmeri,Stream,Hylidae
+176,237,67,,10,Dec,2004,Silenciosa,Centrolenella,ilex,,,1670,Chitrid cultive,Sachatamia,ilex,Stream,Centrolenidae
+177,238,68,,11,Dec,2004,loop,Colostethus,nubicola,,M,1667,Chitrid cultive,Silverstoneia,nubicola,Stream,Dendrobatidae
+177,239,68,,11,Dec,2004,loop,Eleutherodactylus,museosus,,,1669,Chitrid cultive,Pristimantis,museosus,Stream,Craugastoridae
+178,240,68,,11,Dec,2004,Guabal,Eleutherodactylus,podi-noblei,,,1665,Chitrid cultive,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+178,241,68,,11,Dec,2004,Guabal,Atelopus,zeteki,,,1664,,Atelopus,varius,Stream,Bufonidae
+180,241,68,,11,Dec,2004,Cascada,0,0,,,,,,,Stream,
+179,241,68,,11,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+181,242,69,,12,Dec,2004,Cascada,Colostethus,nubicola,,,1671,Chitrid cultive,Silverstoneia,nubicola,Stream,Dendrobatidae
+182,243,69,,12,Dec,2004,Guabal,Colostethus,flotator,,,1672,Chitrid cultive,Silverstoneia,flotator,Stream,Dendrobatidae
+182,244,69,,12,Dec,2004,Guabal,Hyalinobatrachium,colymbiphyllum,ys,,,Partial remains,Hyalinobatrachium,colymbiphyllum,Stream,Centrolenidae
+183,245,70,,13,Dec,2004,Loop,Eleutherodactylus,talamancae,,,1650,,Craugastor,talamancae,Stream,Craugastoridae
+183,246,70,,13,Dec,2004,Loop,Centrolenella,ilex,,,,Partial remains,Sachatamia,ilex,Stream,Centrolenidae
+184,246,70,,13,Dec,2004,Cascada,0,0,,,,,,,Stream,
+185,246,70,,13,Dec,2004,Guabal,0,0,,,,,,,Stream,
+186,246,70,,13,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+187,247,71,,14,Dec,2004,Loop,Eleutherodactylus,crassidigitus,,,1651,,Craugastor,crassidigitus,Stream,Craugastoridae
+187,248,71,,14,Dec,2004,Loop,Eleutherodactylus,crassidigitus,,,1652,,Craugastor,crassidigitus,Stream,Craugastoridae
+187,249,71,,14,Dec,2004,Loop,Centrolenella,ilex,,,1653,,Sachatamia,ilex,Stream,Centrolenidae
+187,250,71,,14,Dec,2004,Loop,Eleutherodactylus,bransfordii,,,1656,,Craugastor,bransfordii,Stream,Craugastoridae
+188,251,71,,14,Dec,2004,Guabal,Hyla,palmeri,,,,Partial remains,Hyloscirtus,palmeri,Stream,Hylidae
+188,252,71,,14,Dec,2004,Guabal,Dendrobates,vicente,,,1654,,Oophaga,vicentei,Stream,Dendrobatidae
+188,253,71,,14,Dec,2004,Rocky road,Phyllomedusa,lemur,,,1655,,Agalychnis,lemur,Trail,Hylidae
+189,254,72,,15,Dec,2004,Loop,Hyla,colymba,,,1677,Chitrid cultive,Hyloscirtus,colymba,Stream,Hylidae
+190,254,72,,15,Dec,2004,Cascada,0,0,,,,,,,Stream,
+191,254,72,,15,Dec,2004,Guabal,0,0,,,,,,,Stream,
+192,255,73,,16,Dec,2004,Loop,Oedipina,collaris,,,1676,Chitrid cultive,Oedipina,collaris,Stream,Plethodontidae
+192,256,73,,16,Dec,2004,Loop,Bufo,haematiticus,,,1978,Chitrid cultive,Rhaebo,haematiticus,Stream,Bufonidae
+193,256,73,,16,Dec,2004,Guabal,0,0,,,,,,,Stream,
+194,256,73,,16,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+195,257,74,,17,Dec,2004,Guabal,Hyla,palmeri,,,1679,Chitrid cultive,Hyloscirtus,palmeri,Stream,Hylidae
+195,258,74,,17,Dec,2004,Guabal,Cochranella ,albomaculata,,,1680,Chitrid cultive,Sachatamia,albomaculata,Stream,Centrolenidae
+195,259,74,,17,Dec,2004,Guabal,Colostethus,nubicola,,F,,Chitrid cultive,Silverstoneia,nubicola,Stream,Dendrobatidae
+195,260,74,,17,Dec,2004,Guabal,Phyllomedusa,lemur,,,1681,Chitrid cultive,Agalychnis,lemur,Stream,Hylidae
+196,260,74,,17,Dec,2004,Cascada,0,0,,,,,,,Stream,
+197,261,74,,17,Dec,2004,Guabal,Hyla ,palmeri,,M,1674,,Hyloscirtus,palmeri,Stream,Hylidae
+197,262,74,,17,Dec,2004,Guabal,Eleutherodactylus,talamancae,,F,1675,,Craugastor,talamancae,Stream,Craugastoridae
+198,263,75,,17,Dec,2004,Main trail,Cochranella ,euknemos,,,1682,,Cochranella,euknemos,Trail,Centrolenidae
+199,264,76,,18,Dec,2004,Loop,Hyla,colymba,,,1683,,Hyloscirtus,colymba,Stream,Hylidae
+200,265,76,,18,Dec,2004,Guabal,Hyla,palmeri,,,1684,,Hyloscirtus,palmeri,Stream,Hylidae
+200,266,76,,18,Dec,2004,Guabal,Eleutherodactylus,podi-noblei,,,1685,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+201,267,76,,18,Dec,2004,Cascada,Eleutherodactylus,tabasarae,,,1686,,Craugastor,tabasarae,Stream,Craugastoridae
+202,267,76,,18,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+203,268,77,,19,Dec,2004,Loop,Hyla,colymba,,,1687,,Hyloscirtus,colymba,Stream,Hylidae
+204,269,77,,19,Dec,2004,Guabal,Hyla,palmeri,,M,1688,,Hyloscirtus,palmeri,Stream,Hylidae
+204,270,77,,19,Dec,2004,Guabal,Eleutherodactylus,talamancae,,,1689,,Craugastor,talamancae,Stream,Craugastoridae
+204,271,77,,19,Dec,2004,Guabal,Hyla,palmeri,,M,1690,,Hyloscirtus,palmeri,Stream,Hylidae
+204,272,77,,19,Dec,2004,Guabal,Hyla,palmeri,,F,1691,,Hyloscirtus,palmeri,Stream,Hylidae
+204,273,77,,19,Dec,2004,Guabal,Hyla,palmeri,,M,1692,,Hyloscirtus,palmeri,Stream,Hylidae
+204,274,77,,19,Dec,2004,Guabal,Colostethus,talamancae,,,1693,,Allobates,talamancae,Stream,Dendrobatidae
+205,275,78,,20,Dec,2004,Guabal,Rana,warszewitchii,,,1700,,Lithobates,warszewitchii,Stream,Ranidae
+206,276,78,,20,Dec,2004,Cascada,0,0,,,,,,,Stream,
+210,276,79,,21,Dec,2004,Cascada,0,0,,,,,,,Stream,
+209,276,79,,21,Dec,2004,Guabal,0,0,,,,,,,Stream,
+207,276,78,,20,Dec,2004,Loop,0,0,,,,,,,Stream,
+211,276,79,,21,Dec,2004,Loop,0,0,,,,,,,Stream,
+208,276,78,,20,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+212,277,80,,22,Dec,2004,Loop,Centrolenella,ilex,,,1701,,Sachatamia,ilex,Stream,Centrolenidae
+212,278,80,,22,Dec,2004,Loop,Hyla,colymba,,,1702,,Hyloscirtus,colymba,Stream,Hylidae
+215,278,80,,22,Dec,2004,Cascada,0,0,,,,,,,Stream,
+214,278,80,,22,Dec,2004,Guabal,0,0,,,,,,,Stream,
+213,278,80,,22,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+216,279,81,,23,Dec,2004,Main trail,Bolitoglossa,schizodactyla,,,1703,,Bolitoglossa,schizodactyla,Trail,Plethodontidae
+217,280,81,,23,Dec,2004,Loop,Hyla,colymba,,,1704,,Hyloscirtus,colymba,Stream,Hylidae
+217,281,81,,23,Dec,2004,Loop,Hyla,colymba,,,1705,,Hyloscirtus,colymba,Stream,Hylidae
+218,282,81,,23,Dec,2004,Guabal,Centrolenella,ilex,,,1706,,Sachatamia,ilex,Stream,Centrolenidae
+219,283,81,,23,Dec,2004,Cascada,Eleutherodactylus,podi-noblei,,,1707,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+220,283,81,,23,Dec,2004,loop trail,0,0,,,,,,,Trail,
+221,283,81,,23,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+222,284,82,,24,Dec,2004,Loop,Atelopus,zeteki,,,1711,,Atelopus,varius,Stream,Bufonidae
+222,285,82,,24,Dec,2004,Loop,Centrolenella,ilex,,,1712,,Sachatamia,ilex,Stream,Centrolenidae
+223,286,83,,25,Dec,2004,Silenciosa,Hyla,colymba,,,1713,,Hyloscirtus,colymba,Stream,Hylidae
+224,287,83,,25,Dec,2004,Loop,Centrolenella,ilex,,,1714,,Sachatamia,ilex,Stream,Centrolenidae
+226,287,83,,25,Dec,2004,Cascada,0,0,,,,,,,Stream,
+230,287,84,,26,Dec,2004,Cascada,0,0,,,,,,,Stream,
+225,287,83,,25,Dec,2004,Guabal,0,0,,,,,,,Stream,
+229,287,84,,26,Dec,2004,Guabal,0,0,,,,,,,Stream,
+228,287,84,,26,Dec,2004,Loop,0,0,,,,,,,Stream,
+227,287,84,,26,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+230,288,85,,27,Dec,2004,Cascada,Eleutherodactylus,crassidigitus,,,1715,,Craugastor,crassidigitus,Stream,Craugastoridae
+231,289,85,,27,Dec,2004,Loop,Hyla,colymba,,,1716,,Hyloscirtus,colymba,Stream,Hylidae
+234,289,86,,28,Dec,2004,Cascada,0,0,,,,,,,Stream,
+233,289,85,,27,Dec,2004,Guabal,0,0,,,,,,,Stream,
+235,289,86,,28,Dec,2004,Guabal,0,0,,,,,,,Stream,
+236,289,86,,28,Dec,2004,Loop,0,0,,,,,,,Stream,
+238,289,86,,28,Dec,2004,loop trail,0,0,,,,,,,Trail,
+232,289,85,,27,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+237,289,86,,28,Dec,2004,Verrugosa,0,0,,,,,,,Trail,
+239,290,87,,29,Dec,2004,Loop,Centrolenella,ilex,,,1717,,Sachatamia,ilex,Stream,Centrolenidae
+241,290,87,,29,Dec,2004,Cascada,0,0,,,,,,,Stream,
+240,290,87,,29,Dec,2004,Guabal,0,0,,,,,,,Stream,
+243,290,87,,29,Dec,2004,loop trail,0,0,,,,,,,Trail,
+242,290,87,,29,Dec,2004,Main trail,0,0,,,,,,,Trail,
+244,290,87,,29,Dec,2004,Verrugosa,0,0,,,,,,,Trail,
+245,291,88,,30,Dec,2004,Main Trail,Eleutherodactylus,podi-noblei,,,1718,,Craugastor,n.sp (podinoblei),Trail,Craugastoridae
+246,291,88,,30,Dec,2004,Cascada,0,0,,,,,,,Stream,
+247,291,88,,30,Dec,2004,Guabal,0,0,,,,,,,Stream,
+248,291,88,,30,Dec,2004,Loop,0,0,,,,,,,Stream,
+249,291,88,,30,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+250,292,89,,31,Dec,2004,Loop,Hyla,colymba,,,1719,,Hyloscirtus,colymba,Stream,Hylidae
+251,293,89,,31,Dec,2004,Guabal,Centrolenella,ilex,,,1720,,Sachatamia,ilex,Stream,Centrolenidae
+251,294,89,,31,Dec,2004,Guabal,Hyla,colymba,,,1721,,Hyloscirtus,colymba,Stream,Hylidae
+251,295,89,,31,Dec,2004,Guabal,Hyla,palmeri,,,1722,,Hyloscirtus,palmeri,Stream,Hylidae
+252,295,89,,31,Dec,2004,Cascada,0,0,,,,,,,Stream,
+253,295,89,,31,Dec,2004,loop trail,0,0,,,,,,,Trail,
+254,295,89,,31,Dec,2004,Silenciosa,0,0,,,,,,,Stream,
+255,296,90,,1,Jan,2005,Loop,Hyla,colymba,,,1723,,Hyloscirtus,colymba,Stream,Hylidae
+256,296,90,,1,Jan,2005,Cascada,0,0,,,,,,,Stream,
+257,296,90,,1,Jan,2005,Guabal,0,0,,,,,,,Stream,
+258,297,91,,2,Jan,2005,Loop,Hyla,colymba,,,1724,,Hyloscirtus,colymba,Stream,Hylidae
+258,298,91,,2,Jan,2005,Loop,Eleutherodactylus,talamancae,,,1725,,Craugastor,talamancae,Stream,Craugastoridae
+259,299,91,,2,Jan,2005,Cascada,Eleutherodactylus,crassidigitus,,,1726,,Craugastor,crassidigitus,Stream,Craugastoridae
+260,300,91,,2,Jan,2005,Guabal,Hyla,palmeri,,,1727,,Hyloscirtus,palmeri,Stream,Hylidae
+260,301,91,,2,Jan,2005,Guabal,Bufo,coniferus,,,1728,,Ollotis,coniferus,Stream,Bufonidae
+261,302,92,,3,Jan,2005,Loop,Eleutherodactylus,podi-noblei,,,1729,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+261,303,92,,3,Jan,2005,Loop,Eleutherodactylus,crassidigitus,,,1730,,Craugastor,crassidigitus,Stream,Craugastoridae
+262,303,92,,3,Jan,2005,Cascada,0,0,,,,,,,Stream,
+263,303,92,,3,Jan,2005,Guabal,0,0,,,,,,,Stream,
+264,303,92,,3,Jan,2005,Silenciosa,0,0,,,,,,,Stream,
+265,304,93,,4,Jan,2005,Loop,Rana,warszewitchii,,,1731,,Lithobates,warszewitchii,Stream,Ranidae
+266,305,93,,4,Jan,2005,Cascada,Eleutherodactylus,podi-noblei,,,1732,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+266,306,93,,4,Jan,2005,Cascada,Hyla,colymba,,,1733,,Hyloscirtus,colymba,Stream,Hylidae
+268,306,93,,4,Jan,2005,Guabal,0,0,,,,,,,Stream,
+267,306,93,,4,Jan,2005,Silenciosa,0,0,,,,,,,Stream,
+269,307,94,,5,Jan,2005,Guabal,Oedipina,sp.,,,1734,,Oedipina,sp.nov,Stream,Plethodontidae
+270,308,94,,5,Jan,2005,Loop,Phyllobates,lugubris,,,1735,,Phyllobates,lugubris,Stream,Dendrobatidae
+271,309,94,,5,Jan,2005,Silenciosa,Centrolenella,ilex,,,1736,,Sachatamia,ilex,Stream,Centrolenidae
+272,309,94,,5,Jan,2005,Cascada,0,0,,,,,,,Stream,
+273,310,95,,6,Jan,2005,Loop,Hyla ,colymba,,,1738,,Hyloscirtus,colymba,Stream,Hylidae
+274,311,95,,6,Jan,2005,Silenciosa,Colostethus,nubicola,,,1739,,Silverstoneia,nubicola,Stream,Dendrobatidae
+274,312,95,,6,Jan,2005,Silenciosa,Dendrobates,auratus,,,1740,,Dendrobates,auratus,Stream,Dendrobatidae
+275,313,95,,6,Jan,2005,Loop,Eleutherodactylus,caryophyllaceous,,,1744,,Pristimantis,educatoris,Stream,Craugastoridae
+277,313,95,,6,Jan,2005,Cascada,0,0,,,,,,,Stream,
+276,313,95,,6,Jan,2005,Guabal,0,0,,,,,,,Stream,
+278,314,96,,7,Jan,2005,Loop,Hyla,colymba,,,1741,,Hyloscirtus,colymba,Stream,Hylidae
+279,315,96,,7,Jan,2005,Silenciosa,Hyla,colymba,,,1742,,Hyloscirtus,colymba,Stream,Hylidae
+280,316,96,,7,Jan,2005,Main Trail,Eleutherodactylus,tabasarae,,,1746,,Craugastor,tabasarae,Trail,Craugastoridae
+282,316,96,,7,Jan,2005,Cascada,0,0,,,,,,,Stream,
+281,316,96,,7,Jan,2005,Guabal,0,0,,,,,,,Stream,
+283,317,97,,8,Jan,2005,Guabal,Hyla,colymba,,,1747,,Hyloscirtus,colymba,Stream,Hylidae
+284,318,98,,9,Jan,2005,Guabal,Hyla,palmeri,,,1748,,Hyloscirtus,palmeri,Stream,Hylidae
+284,319,98,,9,Jan,2005,Guabal,Hyla,colymba,,,1749,,Hyloscirtus,colymba,Stream,Hylidae
+285,320,98,,9,Jan,2005,Loop,Eleutherodactylus,talamancae,,,1750,,Craugastor,talamancae,Stream,Craugastoridae
+286,320,98,,9,Jan,2005,Silenciosa,0,0,,,,,,,Stream,
+287,321,99,,11,Jan,2005,Guabal,Hyla,palmeri,,,1753,,Hyloscirtus,palmeri,Stream,Hylidae
+288,322,100,,12,Jan,2005,Silenciosa,Colostethus,nubicola,,M,1751,,Silverstoneia,nubicola,Stream,Dendrobatidae
+289,323,100,,12,Jan,2005,Matorral,Hyla,colymba,,F,1752,,Hyloscirtus,colymba,Trail,Hylidae
+290,324,100,,12,Jan,2005,Guabal,Hyla,colymba,,M,1753,,Hyloscirtus,colymba,Stream,Hylidae
+292,324,100,,12,Jan,2005,Cascada,0,0,,,,,,,Stream,
+291,324,100,,12,Jan,2005,Loop,0,0,,,,,,,Stream,
+293,325,100,,12,Jan,2005,Matorral,Eleutherodactylus,crassidigitus,,,1776,,Craugastor,crassidigitus,Trail,Craugastoridae
+294,326,101,,13,Jan,2005,Guabal,Hyla,palmeri,,,1775,,Hyloscirtus,palmeri,Stream,Hylidae
+296,326,101,,13,Jan,2005,Cascada,0,0,,,,,,,Stream,
+295,326,101,,13,Jan,2005,Loop,0,0,,,,,,,Stream,
+298,326,101,,13,Jan,2005,Main trail,0,0,,,,,,,Trail,
+297,326,101,,13,Jan,2005,Silenciosa,0,0,,,,,,,Stream,
+299,327,102,,14,Jan,2005,Guabal,Hyla,miliaria,,,1779,,Ecnomiohyla,miliaria,Stream,Hylidae
+299,328,102,,14,Jan,2005,Guabal,Cochranella ,euknemos,,,1777,,Sachatamia,euknemos,Stream,Centrolenidae
+300,329,102,,14,Jan,2005,Loop,Eleutherodactylus,podi-noblei,,,1778,,Craugastor,n.sp (podinoblei),Stream,Craugastoridae
+300,330,102,,14,Jan,2005,Loop,Hyla,miliaria,,,1781,,Ecnomiohyla,miliaria,Stream,Hylidae
+301,330,102,,14,Jan,2005,loop trail,0,0,,,,,,,Trail,
+302,331,103,,15,Jan,2005,Loop,Eleutherodactylus,talamancae,,,1784,,Craugastor,talamancae,Stream,Craugastoridae
+302,332,103,,15,Jan,2005,Loop,Hyla,colymba,,,1785,,Hyloscirtus,colymba,Stream,Hylidae
+303,332,103,,15,Jan,2005,Cascada,0,0,,,,,,,Stream,
+305,332,104,,16,Jan,2005,Cascada,0,0,,,,,,,Stream,
+304,332,103,,15,Jan,2005,Guabal,0,0,,,,,,,Stream,
+306,332,104,,16,Jan,2005,Guabal,0,0,,,,,,,Stream,
+307,332,104,,16,Jan,2005,Loop,0,0,,,,,,,Stream,
+308,332,104,,16,Jan,2005,Silenciosa,0,0,,,,,,,Stream,
+309,333,105,,17,Jan,2005,Loop,Hyla,colymba,,,1786,,Hyloscirtus,colymba,Stream,Hylidae
+310,333,105,,17,Jan,2005,Cascada,0,0,,M,,,,,Stream,
+311,333,105,,17,Jan,2005,Guabal,0,0,,,,,,,Stream,
+312,333,106,,19,Jan,2005,Guabal,0,0,,,,,,,Stream,
+313,333,106,,19,Jan,2005,Loop,0,0,,,,,,,Stream,
+314,334,107,,21,Jan,2005,Loop,Hyla,palmeri,,M,1790,,Hyloscirtus,palmeri,Stream,Hylidae
+315,335,107,,21,Jan,2005,Silenciosa,Cochranella ,albomaculata,,,1791,,Sachatamia,albomaculata,Stream,Centrolenidae
+316,335,107,,21,Jan,2005,Cascada,0,0,,,,,,,Stream,
+317,335,107,,21,Jan,2005,Guabal,0,0,,,,,,,Stream,
+318,336,108,,22,Jan,2005,Loop,Eleutherodactylus,crassidigitus,,F,1793,,Craugastor,crassidigitus,Stream,Craugastoridae
+318,337,108,,22,Jan,2005,Loop,Hyla,colymba,,M,1789,,Hyloscirtus,colymba,Stream,Hylidae
+319,337,108,,22,Jan,2005,Cascada,0,0,,,,,,,Stream,
+321,337,109,,23,Jan,2005,Cascada,0,0,,,,,,,Stream,
+320,337,108,,22,Jan,2005,Guabal,0,0,,,,,,,Stream,
+322,337,109,,23,Jan,2005,Guabal,0,0,,,,,,,Stream,
+323,337,109,,23,Jan,2005,Loop,0,0,,,,,,,Stream,
+324,338,110,,24,Jan,2005,Guabal,Hyla,palmeri,,,1795,,Hyloscirtus,palmeri,Stream,Hylidae
+325,338,110,,24,Jan,2005,Loop,0,0,,,,,,,Stream,
+326,338,110,,24,Jan,2005,Silenciosa,0,0,,,,,,,Stream,
+327,339,111,Santana,25,Jan,2005,Loop,Hyla,colymba,,,1806,,Hyloscirtus,colymba,Stream,Hylidae
+328,339,111,Santana,25,Jan,2005,Loop,0,0,,,,,,,Stream,
+329,340,112,Santana,26,Jan,2005,Guabal,Hyla,palmeri,,,1807,,Hyloscirtus,palmeri,Stream,Hylidae
+330,340,112,Santana,26,Jan,2005,Cascada,0,0,,,,,,,Stream,
+333,340,113,Santana,27,Jan,2005,Cascada,0,0,,,,,,,Stream,
+334,340,113,Santana,27,Jan,2005,Guabal,0,0,,,,,,,Stream,
+331,340,112,Santana,26,Jan,2005,Loop,0,0,,,,,,,Stream,
+335,340,113,Santana,27,Jan,2005,Loop,0,0,,,,,,,Stream,
+332,340,112,Santana,26,Jan,2005,Silenciosa,0,0,,,,,,,Stream,
+336,341,114,Santana,28,Jan,2005,Silenciosa,Atelopus,zeteki,,,1808,,Atelopus,varius,Stream,Bufonidae
+337,341,114,Santana,28,Jan,2005,Cascada,0,0,,,,,,,Stream,
+340,341,115,Santana,29,Jan,2005,Cascada,0,0,,,,,,,Stream,
+346,341,117,Santana,31,Jan,2005,Cascada,0,0,,,,,,,Stream,
+338,341,114,Santana,28,Jan,2005,Guabal,0,0,,,,,,,Stream,
+341,341,115,Santana,29,Jan,2005,Guabal,0,0,,,,,,,Stream,
+344,341,116,Santana,30,Jan,2005,Guabal,0,0,,,,,,,Stream,
+347,341,117,Santana,31,Jan,2005,Guabal,0,0,,,,,,,Stream,
+351,341,118,Santana,1,Feb,2005,Guabal,0,0,,,,,,,Stream,
+339,341,114,Santana,28,Jan,2005,Loop,0,0,,,,,,,Stream,
+342,341,115,Santana,29,Jan,2005,Loop,0,0,,,,,,,Stream,
+345,341,116,Santana,30,Jan,2005,Loop,0,0,,,,,,,Stream,
+348,341,117,Santana,31,Jan,2005,Loop,0,0,,,,,,,Stream,
+350,341,118,Santana,1,Feb,2005,Loop,0,0,,,,,,,Stream,
+343,341,115,Santana,29,Jan,2005,Silenciosa,0,0,,,,,,,Stream,
+349,341,117,Santana,31,Jan,2005,Silenciosa,0,0,,,,,,,Stream,
+352,342,119,Santana,2,Feb,2005,Guabal,Hyla,palmeri,,,1810,,Hyloscirtus,palmeri,Stream,Hylidae
+357,342,120,Santana,3,Feb,2005,Cascada,0,0,,,,,,,Stream,
+363,342,122,Santana,5,Feb,2005,Cascada,0,0,,,,,,,Stream,
+366,342,123,Santana,6,Feb,2005,Cascada,0,0,,,,,,,Stream,
+370,342,125,Santana,8,Feb,2005,Cascada,0,0,,,,,,,Stream,
+356,342,120,Santana,3,Feb,2005,Guabal,0,0,,,,,,,Stream,
+360,342,121,Santana,4,Feb,2005,Guabal,0,0,,,,,,,Stream,
+362,342,122,Santana,5,Feb,2005,Guabal,0,0,,,,,,,Stream,
+365,342,123,Santana,6,Feb,2005,Guabal,0,0,,,,,,,Stream,
+353,342,119,Santana,2,Feb,2005,Loop,0,0,,,,,,,Stream,
+355,342,120,Santana,3,Feb,2005,Loop,0,0,,,,,,,Stream,
+359,342,121,Santana,4,Feb,2005,Loop,0,0,,,,,,,Stream,
+361,342,122,Santana,5,Feb,2005,Loop,0,0,,,,,,,Stream,
+364,342,123,Santana,6,Feb,2005,Loop,0,0,,,,,,,Stream,
+369,342,125,Santana,8,Feb,2005,Loop,0,0,,,,,,,Stream,
+371,342,125,Cy,8,Feb,2005,Loop,0,0,,,,,,,Stream,
+354,342,119,Santana,2,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+358,342,120,Santana,3,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+368,342,124,Cy,7,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+367,342,124,Cy,7,Feb,2005,Verrugosa,0,0,,,,,,,Trail,
+372,343,126,Santana,9,Feb,2005,Guabal,Eleutherodactylus,tabasarae,,,1823,,Craugastor,tabasarae,Stream,Craugastoridae
+379,343,127,Santana,10,Feb,2005,Cascada,0,0,,,,,,,Stream,
+384,343,128,Santana,11,Feb,2005,Cascada,0,0,,,,,,,Stream,
+388,343,129,Santana,12,Feb,2005,Cascada,0,0,,,,,,,Stream,
+390,343,130,Santana,13,Feb,2005,Cascada,0,0,,,,,,,Stream,
+393,343,131,Santana,14,Feb,2005,Cascada,0,0,,,,,,,Stream,
+375,343,126,Cy,9,Feb,2005,Guabal,0,0,,,,,,,Stream,
+378,343,127,Santana,10,Feb,2005,Guabal,0,0,,,,,,,Stream,
+383,343,128,Santana,11,Feb,2005,Guabal,0,0,,,,,,,Stream,
+387,343,129,Santana,12,Feb,2005,Guabal,0,0,,,,,,,Stream,
+391,343,130,Santana,13,Feb,2005,Guabal,0,0,,,,,,,Stream,
+392,343,131,Santana,14,Feb,2005,Guabal,0,0,,,,,,,Stream,
+373,343,126,Santana,9,Feb,2005,Loop,0,0,,,,,,,Stream,
+376,343,127,Santana,10,Feb,2005,Loop,0,0,,,,,,,Stream,
+381,343,128,Santana,11,Feb,2005,Loop,0,0,,,,,,,Stream,
+385,343,129,Santana,12,Feb,2005,Loop,0,0,,,,,,,Stream,
+389,343,130,Santana,13,Feb,2005,Loop,0,0,,,,,,,Stream,
+395,343,131,Cy,14,Feb,2005,Loop,0,0,,,,,,,Stream,
+374,343,126,Santana,9,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+377,343,127,Santana,10,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+382,343,128,Santana,11,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+386,343,129,Santana,12,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+396,343,131,Cy,14,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+380,343,128,Cy,11,Feb,2005,Verrugosa,0,0,,,,,,,Trail,
+394,343,131,Cy,14,Feb,2005,Verrugosa,0,0,,,,,,,Trail,
+397,344,132,Santana,15,Feb,2005,Silenciosa,Leptodactylus,pentadactylus,,,1832,,Leptodactylus,savagei,Stream,Leptodactylidae
+397,345,132,Santana,15,Feb,2005,Silenciosa,Eleutherodactylus,bransfordii,,,1829,,Craugastor,bransfordii,Stream,Craugastoridae
+400,345,132,Santana,15,Feb,2005,Cascada,0,0,,,,,,,Stream,
+404,345,133,Santana,16,Feb,2005,Cascada,0,0,,,,,,,Stream,
+405,345,133,Cy,16,Feb,2005,Cascada,0,0,,,,,,,Stream,
+411,345,135,Santana,18,Feb,2005,Cascada,0,0,,,,,,,Stream,
+412,345,136,Santana,19,Feb,2005,Cascada,0,0,,,,,,,Stream,
+417,345,137,Santana,20,Feb,2005,Cascada,0,0,,,,,,,Stream,
+423,345,138,Santana,21,Feb,2005,Cascada,0,0,,,,,,,Stream,
+427,345,138,Santana,22,Feb,2005,Cascada,0,0,,,,,,,Stream,
+431,345,139,Santana,24,Feb,2005,Cascada,0,0,,,,,,,Stream,
+435,345,140,Santana,25,Feb,2005,Cascada,0,0,,,,,,,Stream,
+439,345,141,Santana,26,Feb,2005,Cascada,0,0,,,,,,,Stream,
+443,345,142,Santana,27,Feb,2005,Cascada,0,0,,,,,,,Stream,
+447,345,143,Santana,28,Feb,2005,Cascada,0,0,,,,,,,Stream,
+453,345,145,Santana,4,Mar,2005,Cascada,0,0,,,,,,,Stream,
+457,345,146,Santana,5,Mar,2005,Cascada,0,0,,,,,,,Stream,
+467,345,149,Santana,8,Mar,2005,Cascada,0,0,,,,,,,Stream,
+471,345,150,Santana,9,Mar,2005,Cascada,0,0,,,,,,,Stream,
+474,345,151,Santana,10,Mar,2005,Cascada,0,0,,,,,,,Stream,
+478,345,152,Santana,11,Mar,2005,Cascada,0,0,,,,,,,Stream,
+399,345,132,Santana,15,Feb,2005,Guabal,0,0,,,,,,,Stream,
+403,345,133,Santana,16,Feb,2005,Guabal,0,0,,,,,,,Stream,
+408,345,134,Santana,17,Feb,2005,Guabal,0,0,,,,,,,Stream,
+410,345,135,Santana,18,Feb,2005,Guabal,0,0,,,,,,,Stream,
+415,345,136,Santana,19,Feb,2005,Guabal,0,0,,,,,,,Stream,
+420,345,137,Santana,20,Feb,2005,Guabal,0,0,,,,,,,Stream,
+426,345,138,Santana,21,Feb,2005,Guabal,0,0,,,,,,,Stream,
+430,345,138,Santana,22,Feb,2005,Guabal,0,0,,,,,,,Stream,
+434,345,139,Santana,24,Feb,2005,Guabal,0,0,,,,,,,Stream,
+438,345,140,Santana,25,Feb,2005,Guabal,0,0,,,,,,,Stream,
+442,345,141,Santana,26,Feb,2005,Guabal,0,0,,,,,,,Stream,
+446,345,142,Santana,27,Feb,2005,Guabal,0,0,,,,,,,Stream,
+449,345,143,Santana,28,Feb,2005,Guabal,0,0,,,,,,,Stream,
+452,345,144,Santana,1,Mar,2005,Guabal,0,0,,,,,,,Stream,
+456,345,145,Santana,4,Mar,2005,Guabal,0,0,,,,,,,Stream,
+460,345,146,Santana,5,Mar,2005,Guabal,0,0,,,,,,,Stream,
+463,345,147,Santana,6,Mar,2005,Guabal,0,0,,,,,,,Stream,
+466,345,148,Santana,7,Mar,2005,Guabal,0,0,,,,,,,Stream,
+470,345,149,Santana,8,Mar,2005,Guabal,0,0,,,,,,,Stream,
+473,345,150,Santana,9,Mar,2005,Guabal,0,0,,,,,,,Stream,
+477,345,151,Santana,10,Mar,2005,Guabal,0,0,,,,,,,Stream,
+481,345,152,Santana,11,Mar,2005,Guabal,0,0,,,,,,,Stream,
+398,345,132,Santana,15,Feb,2005,Loop,0,0,,,,,,,Stream,
+402,345,133,Santana,16,Feb,2005,Loop,0,0,,,,,,,Stream,
+406,345,134,Santana,17,Feb,2005,Loop,0,0,,,,,,,Stream,
+409,345,135,Santana,18,Feb,2005,Loop,0,0,,,,,,,Stream,
+414,345,136,Santana,19,Feb,2005,Loop,0,0,,,,,,,Stream,
+419,345,137,Santana,20,Feb,2005,Loop,0,0,,,,,,,Stream,
+425,345,138,Santana,21,Feb,2005,Loop,0,0,,,,,,,Stream,
+429,345,138,Santana,22,Feb,2005,Loop,0,0,,,,,,,Stream,
+433,345,139,Santana,24,Feb,2005,Loop,0,0,,,,,,,Stream,
+437,345,140,Santana,25,Feb,2005,Loop,0,0,,,,,,,Stream,
+441,345,141,Santana,26,Feb,2005,Loop,0,0,,,,,,,Stream,
+445,345,142,Santana,27,Feb,2005,Loop,0,0,,,,,,,Stream,
+451,345,144,Santana,1,Mar,2005,Loop,0,0,,,,,,,Stream,
+455,345,145,Santana,4,Mar,2005,Loop,0,0,,,,,,,Stream,
+459,345,146,Santana,5,Mar,2005,Loop,0,0,,,,,,,Stream,
+462,345,147,Santana,6,Mar,2005,Loop,0,0,,,,,,,Stream,
+465,345,148,Santana,7,Mar,2005,Loop,0,0,,,,,,,Stream,
+469,345,149,Santana,8,Mar,2005,Loop,0,0,,,,,,,Stream,
+472,345,150,Santana,9,Mar,2005,Loop,0,0,,,,,,,Stream,
+476,345,151,Santana,10,Mar,2005,Loop,0,0,,,,,,,Stream,
+480,345,152,Santana,11,Mar,2005,Loop,0,0,,,,,,,Stream,
+422,345,137,Cy,20,Feb,2005,loop trail,0,0,,,,,,,Trail,
+421,345,137,Cy,20,Feb,2005,Main trail,0,0,,,,,,,Trail,
+401,345,133,Santana,16,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+407,345,134,Santana,17,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+413,345,136,Santana,19,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+418,345,137,Santana,20,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+424,345,138,Santana,21,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+428,345,138,Santana,22,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+432,345,139,Santana,24,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+436,345,140,Santana,25,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+440,345,141,Santana,26,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+444,345,142,Santana,27,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+448,345,143,Santana,28,Feb,2005,Silenciosa,0,0,,,,,,,Stream,
+450,345,144,Santana,1,Mar,2005,Silenciosa,0,0,,,,,,,Stream,
+454,345,145,Santana,4,Mar,2005,Silenciosa,0,0,,,,,,,Stream,
+458,345,146,Santana,5,Mar,2005,Silenciosa,0,0,,,,,,,Stream,
+461,345,147,Santana,6,Mar,2005,Silenciosa,0,0,,,,,,,Stream,
+464,345,148,Santana,7,Mar,2005,Silenciosa,0,0,,,,,,,Stream,
+468,345,149,Santana,8,Mar,2005,Silenciosa,0,0,,,,,,,Stream,
+475,345,151,Santana,10,Mar,2005,Silenciosa,0,0,,,,,,,Stream,
+479,345,152,Santana,11,Mar,2005,Silenciosa,0,0,,,,,,,Stream,
+416,345,136,Cy,19,Feb,2005,Verrugosa,0,0,,,,,,,Trail,
